@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=barrero0717&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=barrero0717&label=Profile%20views&color=0e75b6&style=flat"
+    alt="barrero0717" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="barrero0717" /></p>
 
 
 - 🌱 I’m currently learning Python and Data Science because I want, with data science, find patterns that no one else sees, answer questions, and generate knowledge.
@@ -41,7 +41,7 @@
     -->
 </p>
 
-<!-- .section 
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -86,9 +86,9 @@
       height="40" /> </a> </p>
 
 <br>
--->
+<!-- .section -->
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=barrero0717&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="barrero0717" 

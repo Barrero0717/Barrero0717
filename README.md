@@ -91,13 +91,13 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=barrero0717&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="barrero0717" 
     bg_color=#808080/></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barrero0717&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="barrero0717" /></p>
 
 <br>
 
@@ -106,7 +106,7 @@
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=barrero0717&bg_color=0d1117&text_color=ffffff" alt="barrero0717" /></a> </p> -->
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

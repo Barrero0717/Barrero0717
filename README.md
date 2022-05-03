@@ -92,7 +92,6 @@
       height="40" /> </a> </p>
       -->
 <br>
-<!-- .section -->
 
 <h3>Statistical Data :</h3>
 <p><img align="center"

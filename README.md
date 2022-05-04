@@ -5,7 +5,9 @@
 
 <p><img align="right" src="https://github.com/Barrero0717/Barrero0717/blob/master/image_processing20210918-17862-nvbxxl.gif" alt="barrero0717" /></p>
 
-<p></p>
+<p>
+
+</p>
 
 - 🌱 I’m currently learning **Python and Data Science**
 

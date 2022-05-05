@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Andres Felipe Barrero</h1>
+<h1 align="center">Hi 👋, I'm Andres Felipe Barrero</h1>
 <h3 align="center">A Python developer and Data Analyst in process...🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barrero0717&label=Profile%20views&color=0e75b6&style=flat" alt="barrero0717" /> </p>

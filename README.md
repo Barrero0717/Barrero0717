@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **felipe.barrero17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13-ZYStE9ED-NkFE-A3tuiooE5cU8CR1-/view](https://drive.google.com/file/d/13-ZYStE9ED-NkFE-A3tuiooE5cU8CR1-/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SxKnYctXL_1nQbLLWHegS8ZM4RfzJaZq/view](https://drive.google.com/file/d/13-ZYStE9ED-NkFE-A3tuiooE5cU8CR1-/view)
 
 - ⚡ Fun fact **My family, Food and Music🎵 are the reasons to live.**
 
